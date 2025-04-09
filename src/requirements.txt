@@ -1,0 +1,9 @@
+tensorflow==2.13.1
+pandas==2.0.3
+numpy==1.22.4
+scikit-learn==1.2.2
+matplotlib==3.3.4
+pyyaml==6.0.1
+seaborn==0.11.1
+calmap==0.0.11
+missingno==0.4.2
